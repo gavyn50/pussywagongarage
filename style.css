@@ -54,7 +54,7 @@ nav .menu{
   color: black;
 }
 .img{
-  background: url('accord.jpg')no-repeat;
+  background: url('/images/accord.jpg')no-repeat;
   width: 100%;
   height: 100vh;
   background-size: cover;
