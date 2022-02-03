@@ -111,10 +111,12 @@ nav .menu{
 .btns button:first-child:hover{
   background: white;
   color: black;
+  text-decoration: none
 }
 .center .btns button:last-child{
   background: white;
   color: black;
+  text-decoration: none
 }
 
 .footer {
