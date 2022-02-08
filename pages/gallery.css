@@ -80,5 +80,6 @@ nav .menu{
   .column img {
     margin-top: 8px;
     vertical-align: middle;
-    width: fit-content;
+    max-width: 50%;
+    height: auto;
   }
